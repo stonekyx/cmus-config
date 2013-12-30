@@ -3,6 +3,7 @@ set altformat_current= %F
 set altformat_playlist= %f%= %d 
 set altformat_title=%f
 set altformat_trackwin= %f%= %d 
+set auto_expand_albums=true
 set auto_reshuffle=true
 set buffer_seconds=10
 set color_cmdline_attr=default
@@ -79,6 +80,7 @@ set resume=true
 set rewind_offset=5
 set scroll_offset=2
 set set_term_title=true
+set show_all_tracks=true
 set show_current_bitrate=true
 set show_hidden=false
 set show_playback_position=true
